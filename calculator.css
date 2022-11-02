@@ -1,0 +1,61 @@
+/* Theme */
+.text-align-center{
+    text-align: center;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.font-size-12{
+    font-size: 12px;
+}
+.font-size-20{
+    font-size: 20px;
+}
+.font-bold{
+    font-weight: bold;
+}
+
+/* calculator */
+.Calculator{
+    background-image: linear-gradient(rgb(153, 248, 248),rgb(23, 203, 248));
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 9%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.screen{
+    height: 3rem;
+    width: 70%;
+    margin-left: 17%;
+    position: relative;
+}
+#d-screen{
+    position:absolute;
+    top: 0px;
+    left: 0;
+    width: 95%;
+    height: 85%;
+    border: 0px;
+    text-align: right;
+    font-size: 20px;
+}
+.btn-type1{
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn-type2{
+    width: 5.2rem;
+    height: 2.5rem;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
